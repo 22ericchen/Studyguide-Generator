@@ -1,0 +1,11 @@
+[[What is the periodic symbol for Hydrogen? ::: H]]
+[[What is the periodic Symbol for Iodine? ::: I]]
+[[What is 1 + 1 = ? ::: 2]]
+[[What is the periodic Symbol for Bromine? ::: Br]]
+[[What is the periodic Symbol for Helium? ::: He]]
+[[What is the periodic Symbol for Nitrogen? ::: N]]
+[[What is the compound for Carbonic Acid ::: CO3]]
+[[What is the periodic Symbol for Fluorine ::: F]]
+[[How many neutrons does Lithium have? ::: 3]]
+[[is Krypton a noble gas? ::: Yes]]
+
